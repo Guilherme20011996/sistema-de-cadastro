@@ -7,3 +7,4 @@ Para todar esse projeto em sua maquina por favor digite:
 ```
 npm install react
 ```
+:]
